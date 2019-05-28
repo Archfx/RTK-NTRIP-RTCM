@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [NeoM8P_GPS.PrjPcb]
+   Generated File[M8P-RoundHoles.TXT]
+   Generated File[M8P-SlotHoles.TXT]
+   Generated File[M8P.LDP]
+   Generated File[M8P.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:48:29 PM On 8/14/2018

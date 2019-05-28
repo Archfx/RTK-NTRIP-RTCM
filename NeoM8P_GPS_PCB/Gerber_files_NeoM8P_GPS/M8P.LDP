@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\NeoM8P_GPS\M8P.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=m8p-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=m8p-slotholes.txt|DrillLayers=gtl,gbl

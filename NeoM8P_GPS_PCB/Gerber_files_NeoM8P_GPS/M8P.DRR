@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: M8P.PcbDoc   8/14/2018  5:48:29 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : M8P-RoundHoles.TXT
+ASCII SlotHoles File : M8P-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             15        PTH        2.64inch (67.11mm)
+T2      20mil (0.5mm)           +/-2mil (0.05mm)                  Round             6         PTH        0.25inch (6.25mm)
+T3      26mil (0.65mm)                                            Slot              2         PTH        0.37inch (9.30mm)
+T4      32mil (0.825mm)                                           Slot              2         PTH        0.71inch (18.08mm)
+T5      47mil (1.2mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T6      67mil (1.7mm)                                             Round             4         PTH        0.60inch (15.24mm)
+T7      130mil (3.3mm)                                            Round             2         PTH        1.52inch (38.72mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              32
+
+Total Processing Time (hh:mm:ss) : 00:00:00
